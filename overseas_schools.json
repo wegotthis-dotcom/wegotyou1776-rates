@@ -1,0 +1,378 @@
+{
+  "_meta": {
+    "source": "VA GI Bill Comparison Tool dataset, sheet 'Comparison_Tool_Data_Full' (downloaded by user, May 2026)",
+    "filter": "type == FOREIGN AND approved == True",
+    "selection": "51 of 697 approved foreign institutions (50 ranked by GI Bill enrollment + International Christian University, Japan), capped per country for geographic spread",
+    "totalApprovedForeignInDataset": 697,
+    "uiNote": "These are 51 of the thousands of VA-approved schools abroad. To check any school not listed, search the VA's GI Bill Comparison Tool or WEAMS.",
+    "overseasTuitionCap": {
+      "AY2025-26": 29920.95,
+      "AY2026-27": 30908.34,
+      "note": "Cap rolls over Aug 1. Source: VA Post-9/11 GI Bill foreign IHL rates."
+    },
+    "overseasMonthlyHousingAllowance": {
+      "AY2025-26": 2338.0,
+      "AY2026-27": 2522.0,
+      "note": "Flat national MHA for direct foreign enrollment. Rolls over Aug 1. Source: VA.gov Post-9/11 GI Bill rates. Foreign schools use this flat rate, NOT zip-based BAH."
+    }
+  },
+  "schools": [
+    {
+      "name": "Systems Plus College Foundation",
+      "country": "Philippines",
+      "city": "Angeles",
+      "facilityCode": "21982162",
+      "yellowRibbon": false
+    },
+    {
+      "name": "The American University of Paris",
+      "country": "France",
+      "city": "Paris",
+      "facilityCode": "31000879",
+      "yellowRibbon": true
+    },
+    {
+      "name": "University of St Andrews",
+      "country": "Scotland",
+      "city": "St Andrews",
+      "facilityCode": "11001774",
+      "yellowRibbon": false
+    },
+    {
+      "name": "The American University of Rome",
+      "country": "Italy",
+      "city": "Rome",
+      "facilityCode": "31200084",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Holy Angel University",
+      "country": "Philippines",
+      "city": "Angeles",
+      "facilityCode": "21901162",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University of Edinburgh",
+      "country": "Scotland",
+      "city": "Edinburgh",
+      "facilityCode": "11106274",
+      "yellowRibbon": false
+    },
+    {
+      "name": "King's College London",
+      "country": "United Kingdom",
+      "city": "London",
+      "facilityCode": "11021574",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University of Baguio",
+      "country": "Philippines",
+      "city": "Baguio",
+      "facilityCode": "21201062",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Anglia Ruskin University",
+      "country": "England",
+      "city": "Chelmsford",
+      "facilityCode": "11001474",
+      "yellowRibbon": false
+    },
+    {
+      "name": "John Cabot University",
+      "country": "Italy",
+      "city": "Rome",
+      "facilityCode": "31100484",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Stamford International University",
+      "country": "Thailand",
+      "city": "Bangkok",
+      "facilityCode": "21000369",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University of Oxford",
+      "country": "England",
+      "city": "Oxford",
+      "facilityCode": "11106574",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University of Glasgow",
+      "country": "Scotland",
+      "city": "Glasgow",
+      "facilityCode": "11107574",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Trinity College Dublin",
+      "country": "Ireland",
+      "city": "Dublin",
+      "facilityCode": "11102874",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University of Cambridge",
+      "country": "England",
+      "city": "Cambridge",
+      "facilityCode": "11108274",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Columban College Inc",
+      "country": "Philippines",
+      "city": "Olongapo",
+      "facilityCode": "31914162",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University College Dublin",
+      "country": "Ireland",
+      "city": "Belfield Dublin",
+      "facilityCode": "11107074",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University of British Columbia",
+      "country": "Canada",
+      "city": "Vancouver",
+      "facilityCode": "11101675",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Richmond American University London",
+      "country": "England",
+      "city": "London",
+      "facilityCode": "31321574",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University of Sydney",
+      "country": "Australia",
+      "city": "Sydney",
+      "facilityCode": "11100970",
+      "yellowRibbon": true
+    },
+    {
+      "name": "Universidad Autonoma de Guadalajara",
+      "country": "Mexico",
+      "city": "Guadalajara Jalisco",
+      "facilityCode": "31166786",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Universidad del Istmo",
+      "country": "Panama",
+      "city": "Panama",
+      "facilityCode": "11000289",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University of Toronto",
+      "country": "Canada",
+      "city": "Toronto",
+      "facilityCode": "11101575",
+      "yellowRibbon": false
+    },
+    {
+      "name": "McGill University",
+      "country": "Canada",
+      "city": "Montreal",
+      "facilityCode": "11200675",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Victoria University of Wellington",
+      "country": "New Zealand",
+      "city": "Wellington",
+      "facilityCode": "11100599",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Maastricht University",
+      "country": "Netherlands",
+      "city": "Kl Maastricht",
+      "facilityCode": "11200378",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Anglo-american University",
+      "country": "Czech Republic",
+      "city": "Prague",
+      "facilityCode": "31000178",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Franklin University Switzerland",
+      "country": "Switzerland",
+      "city": "Sorengo Lugano",
+      "facilityCode": "31110578",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Queensland University of Technology",
+      "country": "Australia",
+      "city": "Brisbane",
+      "facilityCode": "11101870",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University of Aberdeen",
+      "country": "Scotland",
+      "city": "Aberdeen",
+      "facilityCode": "11108374",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Marbella International",
+      "country": "Spain",
+      "city": "Marbella",
+      "facilityCode": "21200678",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Payap University",
+      "country": "Thailand",
+      "city": "Chiang Mai",
+      "facilityCode": "31102469",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University of New York in Prague",
+      "country": "Czech Republic",
+      "city": "Prague",
+      "facilityCode": "31111178",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Queen's University Belfast",
+      "country": "Northern Ireland",
+      "city": "Belfast",
+      "facilityCode": "11107674",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Griffith University",
+      "country": "Australia",
+      "city": "Queensland",
+      "facilityCode": "11000170",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Massey University",
+      "country": "New Zealand",
+      "city": "Palmerston North",
+      "facilityCode": "11000199",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Pontificia Universidad Catolica Madre y Maestra",
+      "country": "Dominican Republic",
+      "city": "Santiago",
+      "facilityCode": "31000176",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Bangkok University",
+      "country": "Thailand",
+      "city": "Pathum Thani",
+      "facilityCode": "31100069",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University of Galway",
+      "country": "Ireland",
+      "city": "Galway",
+      "facilityCode": "11003274",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Aberystwyth University",
+      "country": "Wales",
+      "city": "Aberystwyth",
+      "facilityCode": "11102774",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Salzburg College",
+      "country": "Austria",
+      "city": "Salzburg",
+      "facilityCode": "21000171",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University of Medicine and Health Sciences",
+      "country": "St. Kitts",
+      "city": "Basseterre",
+      "facilityCode": "22000196",
+      "yellowRibbon": false
+    },
+    {
+      "name": "American College of Greece",
+      "country": "Greece",
+      "city": "Athens",
+      "facilityCode": "31000781",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University of Technology Sydney",
+      "country": "Australia",
+      "city": "",
+      "facilityCode": "11002170",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Concordia University",
+      "country": "Canada",
+      "city": "Montreal",
+      "facilityCode": "11102075",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University of Auckland",
+      "country": "New Zealand",
+      "city": "Auckland",
+      "facilityCode": "11101099",
+      "yellowRibbon": false
+    },
+    {
+      "name": "The American University of Florence",
+      "country": "Italy",
+      "city": "Florence",
+      "facilityCode": "21100684",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Cetys Universidad",
+      "country": "Mexico",
+      "city": "Mexicali",
+      "facilityCode": "31200186",
+      "yellowRibbon": false
+    },
+    {
+      "name": "Xavier University School of Medicine",
+      "country": "Netherlands",
+      "city": "Oranjestad Aruba",
+      "facilityCode": "32100696",
+      "yellowRibbon": false
+    },
+    {
+      "name": "University of Canterbury",
+      "country": "New Zealand",
+      "city": "Christchurch",
+      "facilityCode": "11100999",
+      "yellowRibbon": false
+    },
+    {
+      "name": "International Christian University",
+      "country": "Japan",
+      "city": "Tokyo",
+      "facilityCode": "31100385",
+      "yellowRibbon": false
+    }
+  ]
+}
