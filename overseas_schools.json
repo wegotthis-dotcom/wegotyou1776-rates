@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "source": "VA GI Bill Comparison Tool dataset, sheet 'Comparison_Tool_Data_Full' (downloaded by user, May 2026)",
+    "source": "VA GI Bill Comparison Tool dataset, sheet 'Comparison_Tool_Data_Full' (workbook as of 2026-07-30)",
     "filter": "type == FOREIGN AND approved == True",
-    "selection": "51 of 697 approved foreign institutions (50 ranked by GI Bill enrollment + International Christian University, Japan), capped per country for geographic spread",
-    "totalApprovedForeignInDataset": 697,
+    "selection": "50 of 613 approved foreign institutions (ranked by GI Bill enrollment + International Christian University, Japan), capped per country for geographic spread",
+    "totalApprovedForeignInDataset": 613,
     "uiNote": "These are 51 of the thousands of VA-approved schools abroad. To check any school not listed, search the VA's GI Bill Comparison Tool or WEAMS.",
     "overseasTuitionCap": {
       "AY2025-26": 29920.95,
@@ -316,13 +316,6 @@
       "country": "Greece",
       "city": "Athens",
       "facilityCode": "31000781",
-      "yellowRibbon": false
-    },
-    {
-      "name": "University of Technology Sydney",
-      "country": "Australia",
-      "city": "",
-      "facilityCode": "11002170",
       "yellowRibbon": false
     },
     {
