@@ -1,10 +1,10 @@
 {
   "_meta": {
-    "source": "VA GI Bill Comparison Tool dataset, sheet 'Comparison_Tool_Data_Full' (workbook as of 2026-07-30)",
+    "source": "VA GI Bill Comparison Tool dataset, sheet 'Comparison_Tool_Data_Full' (workbook as of 2026-08-27)",
     "filter": "type == FOREIGN AND approved == True",
-    "selection": "50 of 613 approved foreign institutions (ranked by GI Bill enrollment + International Christian University, Japan), capped per country for geographic spread",
-    "totalApprovedForeignInDataset": 613,
-    "uiNote": "These are 51 of the thousands of VA-approved schools abroad. To check any school not listed, search the VA's GI Bill Comparison Tool or WEAMS.",
+    "selection": "50 of 560 approved foreign institutions (ranked by GI Bill enrollment + International Christian University, Japan), capped per country for geographic spread",
+    "totalApprovedForeignInDataset": 560,
+    "uiNote": "These are 50 of the 560 VA-approved schools abroad. To check any school not listed, search the VA's GI Bill Comparison Tool or WEAMS.",
     "overseasTuitionCap": {
       "AY2025-26": 29920.95,
       "AY2026-27": 30908.34,
